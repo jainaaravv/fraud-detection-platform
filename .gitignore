@@ -1,0 +1,9 @@
+.env
+fraud_detection.db
+__pycache__/
+*.pyc
+models/*.pkl
+data/*.csv
+node_modules/
+dist/
+.vite/
